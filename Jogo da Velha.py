@@ -1,5 +1,4 @@
 #__________________________Jogo__da__Velha__________________________________
-
 #A variável "jogar" permite ao usuário escolher
 #continuar jogando indefinidamente ou sair do programa
 #__________________________________________________________
